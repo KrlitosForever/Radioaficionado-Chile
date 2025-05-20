@@ -4,25 +4,6 @@ Bienvenido/a a mi repositorio de GitHub dedicado al mundo de la radioafición. A
 
 ---
 
-## 📌 Código de Colores para Resistencias
-
-| Color  | Valor | Multiplicador | Tolerancia |
-|--------|-------|--------------|------------|
-| Negro  | 0     | ×10⁰         | -          |
-| Marrón | 1     | ×10¹         | ±1%        |
-| Rojo   | 2     | ×10²         | ±2%        |
-| Naranja| 3     | ×10³         | -          |
-| Amarillo| 4    | ×10⁴         | -          |
-| Verde  | 5     | ×10⁵         | ±0.5%      |
-| Azul   | 6     | ×10⁶         | ±0.25%     |
-| Violeta| 7     | ×10⁷         | ±0.1%      |
-| Gris   | 8     | ×10⁸         | ±0.05%     |
-| Blanco | 9     | ×10⁹         | -          |
-| Dorado | -     | ×10⁻¹        | ±5%        |
-| Plateado| -    | ×10⁻²        | ±10%       |
-
----
-
 ## 📻 Código RST (Readability-Strength-Tone)
 
 Usado para reportar la calidad de una señal en comunicaciones de radio.
@@ -135,3 +116,37 @@ Usado para reportar la calidad de una señal en comunicaciones de radio.
 | QTH | Domicilio de la estación |
 | QTS | Transmita su señal distintiva |
 | QUA | ¿Tiene Ud. noticias de …? |
+
+---
+
+## 🔟 CÓDIGO 10 – Códigos utilizados en comunicaciones de radio
+
+| Código | Significado |
+|--------|-------------|
+| 10/1 | Recibo muy pobre |
+| 10/2 | Recibo bien |
+| 10/3 | Pare transmisión |
+| 10/4 | Recibido correctamente |
+| 10/5 | Repita mensaje |
+| 10/6 | Estoy ocupado |
+| 10/7 | Salgo de frecuencia |
+| 10/8 | Estoy en frecuencia |
+| 10/9 | Repita el mensaje |
+| 10/10 | Copiado correctamente |
+| 10/17 | Ocupaciones urgentes |
+| 10/19 | Retorne a su base |
+| 10/20 | Mi localidad es ... |
+| 10/21 | Llame por teléfono a ... |
+| 10/22 | Verlo personalmente |
+| 10/27 | Cambiar de frecuencia |
+| 10/28 | Identifique su estación |
+| 10/33 | Tráfico de emergencia |
+| 10/35 | Tengo información |
+| 10/36 | ¿Qué hora es? |
+| 10/41 | Volver a frecuencia anterior |
+| 10/42 | Accidente de tránsito |
+| 10/44 | Tengo mensaje para usted |
+| 10/77 | Contacto negativo |
+| 10/84 | Mi teléfono es ... |
+| 10/85 | Mi domicilio es ... |
+
