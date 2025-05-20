@@ -92,3 +92,46 @@ Usado para reportar la calidad de una señal en comunicaciones de radio.
 | Z     | Zulu         | ZOO-LOO        |
 
 ---
+
+## 📡 CÓDIGO Q – Abreviaciones utilizadas en comunicaciones radiales
+
+| Código | Significado |
+|--------|-------------|
+| QAM | Estado del tiempo |
+| QCX | ¿Cuál es su señal distintiva completa? |
+| QRA | Prefijo de la estación |
+| QRG | Indicación de frecuencia |
+| QRJ | ¿Tiene tráfico para enviar? |
+| QRL | Estoy ocupado / Estar ocupado |
+| QRN | Interferencia atmosférica |
+| QRP | Disminuir potencia |
+| QRS | Transmita más lento |
+| QRU | ¿Tiene algo para mí? |
+| QRX | Espere un momento, ya lo llamo |
+| QSA | Intensidad de las señales |
+| QSJ | Todo lo relativo a dinero |
+| QSO | Comunicado |
+| QSS | ¿Qué frecuencia utiliza normalmente? |
+| QSY | Cambiar de frecuencia |
+| QTC | Tengo un mensaje para usted |
+| QTR | ¿Qué hora es? |
+| QTU | ¿A qué hora estará en su estación? |
+| QAP | Quedar en escucha |
+| QMH | Cambie a la frecuencia ... |
+| QRB | Distancia entre estaciones |
+| QRH | Variaciones en la frecuencia |
+| QRM | Interferencia artificial |
+| QRO | Aumentar potencia |
+| QRQ | Transmita más rápido |
+| QRT | Cesar la transmisión |
+| QRV | Estar preparado |
+| QRY | Número de turno en rueda |
+| QRZ | ¿Quién me llama? |
+| QSB | Variación de la señal |
+| QSL | Recibido - comprendido |
+| QSP | Hacer retransmisión |
+| QSZ | Repita las palabras |
+| QTA | Anular pedido realizado |
+| QTH | Domicilio de la estación |
+| QTS | Transmita su señal distintiva |
+| QUA | ¿Tiene Ud. noticias de …? |
