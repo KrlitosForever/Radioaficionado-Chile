@@ -4,6 +4,14 @@ Bienvenido/a a mi repositorio de GitHub dedicado al mundo de la radioafición. A
 
 ---
 
+## 📑 Tabla de Contenidos
+
+- [📻 Código RST (Readability-Strength-Tone)](#-código-rst-readability-strength-tone)
+- [🌍 Código Fonético Internacional](#-código-fonético-internacional)
+- [📡 CÓDIGO Q – Abreviaciones utilizadas en comunicaciones radiales](#-código-q--abreviaciones-utilizadas-en-comunicaciones-radiales)
+- [🔟 CÓDIGO 10 – Códigos utilizados en comunicaciones de radio](#-código-10--códigos-utilizados-en-comunicaciones-de-radio)
+
+---
 ## 📻 Código RST (Readability-Strength-Tone)
 
 Usado para reportar la calidad de una señal en comunicaciones de radio.
