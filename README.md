@@ -28,22 +28,33 @@ Bienvenido/a a mi repositorio de GitHub dedicado al mundo de la radioafición. A
 Usado para reportar la calidad de una señal en comunicaciones de radio.
 
 - **R (Readability - Legibilidad):**
-  - 1 = Ininteligible
-  - 2 = Apenas reconocible
-  - 3 = Difícil de entender
-  - 4 = Legible con dificultad
-  - 5 = Perfectamente legible
+  - 1 = Se distingue un 20% o menos del mensaje
+  - 2 = Se distingue entre un 20% y un 40% del mensaje
+  - 3 = Se distingue entre un 40% y un 60% del mensaje
+  - 4 = Se entiende sin dificultad
+  - 5 = Perfectamente entendible en su totalidad
 
 - **S (Strength - Fuerza):**
-  - 1 = Señal muy débil
-  - 2 = Señal débil
-  - 3 = Señal moderada
-  - 4 = Señal buena
-  - 5 = Señal muy fuerte
+  - 1 = Apenas perceptible
+  - 2 = Muy débil
+  - 3 = Débil
+  - 4 = Aceptable
+  - 5 = Bastante buena
+  - 6 = Buena
+  - 7 = Moderadamente fuerte
+  - 8 = Fuerte
+  - 9 = Muy fuerte
 
 - **T (Tone - Tono):** *(Solo para modos digitales/CW)*
-  - 1 = Tonos muy pobres
-  - 9 = Tonos perfectos
+  - 1  =   Nota muy ronca y chirriante
+  - 2  =   Nota de corriente alterna
+  - 3  =   Nota ligeramente musical, pero ronca
+  - 4  =   Nota moderadamente  musical, bastante ronca
+  - 5  =   Nota musical modulada por corriente alterna
+  - 6  =   Nota ligeramente modulada, algo silbante
+  - 7  =   Nota casi pura con zumbido
+  - 8  =   Nota pura con ligero zumbido
+  - 9  =   Nota pura.
 
 **Ejemplo:** "Tu señal es RST 599" (Señal perfecta en CW).
 
